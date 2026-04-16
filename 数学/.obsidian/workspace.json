@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "93b655152d4a314a",
@@ -206,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7faec08643b4a313",
+  "active": "2312e4b947e94b47",
   "lastOpenFiles": [
     "常见公式.md",
     "常见定积分结论.md",
